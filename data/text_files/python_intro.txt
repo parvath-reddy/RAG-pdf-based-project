@@ -1,0 +1,18 @@
+Final-year Computer Science student at VIT specializing in Data Science, Machine Learning, and AI innovation. I build intelligent systems that bridge the gap between cutting-edge research and practical business impact—transforming complex data into automated solutions that drive measurable results.
+
+What I Do:
+I architect end-to-end AI systems across three core areas:
+
+Generative & Agentic AI – Developed App-Builder AI, a multi-agent platform using LangChain and LangGraph that converts natural language into production-ready applications in under 2 minutes, reducing prototyping time by 70%. Built a RAG-powered Teaching Assistant achieving 85-90% accuracy with local LLMs for privacy-conscious educational support.
+
+Machine Learning & Risk Analytics – Designed ML pipelines for fraud detection (99.7% accuracy) and credit risk prediction that prevent multi-million-dollar losses. Deployed real-time prediction systems using Random Forest, XGBoost, and Gradient Boosting via Streamlit.
+
+Data Analytics & Business Intelligence – Delivered actionable insights from complex datasets (2GB+) using SQL, Python, Power BI, and Excel. Created interactive dashboards with DAX measures and KPIs that optimize operations, reveal market trends, and support strategic decision-making across sales, supply chain, and financial domains.
+
+Technical Foundation:
+Python | Pandas | Scikit-Learn | XGBoost | SQL | Power BI | LLMs | LangChain | LangGraph | RAG | Streamlit | Groq API
+
+Current Focus:
+Research internship at Suvidha Foundation on NLP/NLG, drafting publication-ready research while continuing to build autonomous AI systems that don't just predict—they create, adapt, and act independently.
+
+Open to opportunities where data science, generative AI, and strategic thinking converge to solve real-world problems.
